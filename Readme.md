@@ -1,0 +1,3 @@
+一、电机控制相关软件工程
+
+1.FOC_PMSM_M1_HALL_ATK-DMF407是基于ATM-DMF407控制版与ATK-PB6010B驱动板构建的不带OS，带HALL传感器的FOC永磁同步电机控制代码工程。
